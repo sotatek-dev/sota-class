@@ -2,7 +2,7 @@
 This is package for javascript developers that cannot forget OOP.  
 In Node.js, we have `util.inherits` to do the inheritance stuffs, but it's not available in browser environment and also discouraged now.  
 New ES6 with language-level inheritance support is still not popular enough, and we have to use old syntax in many cases.  
-**Then let's try Sota-Class**
+Then let's try **Sota-Class**. This module will bring you the familar OOP features with Java language. It's written in pure javscript, no dependency, works well on Node.js/browsers or any javascript environment.
 
 ## Installation
 
