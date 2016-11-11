@@ -22,7 +22,7 @@ The easiest way to use the library is with [webpack](http://webpack.github.io) o
 
 ```js
 var assert = require('assert');
-var Class = require('sota-class');
+var Class = require('sota-class').Class;
 var Animal = Class.extends({
   classname: 'Animal',
 

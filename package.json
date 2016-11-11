@@ -1,6 +1,6 @@
 {
   "name": "sota-class",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Class and OOP stuffs for pure javascript. Work on both Node.js and browsers",
   "main": "index.js",
   "directories": {
